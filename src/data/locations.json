@@ -1,0 +1,107 @@
+[{
+		"id": "hamburg-hbf",
+		"title": "Hamburg Hauptbahnhof",
+		"name": "Hamburg HBF",
+		"category": ["Waterfall", "Nature"],
+		"position": {
+			"lat": 53.552812,
+			"lng": 10.006979
+		},
+		"altname": "Hamburg-HBF,Germany"
+	},
+	{
+		"id": "hamburger-hafen",
+		"title": "Port of Hamburg",
+		"name": "Hamburger Hafen",
+		"category": ["Waterfall", "Nature"],
+		"position": {
+			"lat": 53.50943,
+			"lng": 9.965477
+		}
+	},
+	{
+		"id": "hamburg-airport",
+		"title": "Hamburg Airport",
+		"name": "Hamburg Airport",
+		"category": ["Geothermal", "SPA"],
+		"position": {
+			"lat": 53.6324,
+			"lng": 10.006664
+		},
+		"altname": "Hamburg Airport,Germany"
+	},
+	{
+		"id": "hamburg-tierpark",
+		"title": "Tierpark Hagenbeck",
+		"name": "Hamburg Tier Park",
+		"category": ["animal", "Nature"],
+		"position": {
+			"lat": 53.596576,
+			"lng": 9.938315
+		}
+	},
+	{
+		"id": "hamburg-stadt-park",
+		"title": "Hamburg Stadtpark",
+		"name": "Hamburg City Park",
+		"category": ["Park", "Nature"],
+		"position": {
+			"lat": 53.595813,
+			"lng": 10.013594
+		},
+		"altname": "Hamburg City park"
+	},
+	{
+		"id": "dammtor-park",
+		"title": "Planten un Blomen",
+		"name": "Dammtor Park",
+		"category": ["Park", "Nature"],
+		"position": {
+			"lat": 53.559295,
+			"lng": 9.987523
+		},
+		"altname": "Dammtor park Hamburg"
+	},
+	{
+		"id": "hamburger-kunsthalle",
+		"title": "Kunsthalle Hamburg",
+		"name": "Hamburger Kunsthalle",
+		"category": ["Art", "design"],
+		"position": {
+			"lat": 53.555511,
+			"lng": 10.002546
+		},
+		"altname": "Kunsthalle Hamburg"
+	},
+	{
+		"id": "hamburg-city-hall",
+		"title": "Hamburg City Hall",
+		"name": "Hamburg City Hall",
+		"category": ["city", "rathaus"],
+		"position": {
+			"lat": 53.550416,
+			"lng": 9.992527 
+		}
+	},
+	{
+		"id": "hamburger-dom",
+		"title": "Hamburger Dom",
+		"name": "Hamburger Dom",
+		"category": ["Game", "Playing", "Entertainment"],
+		"position": {
+			"lat":  53.554421,
+			"lng": 9.970833
+		},
+		"altname": "Hamburger Dom"
+	},
+	{
+		"id": "hamburg-santpauli",
+		"title": "Reeperbahn",
+		"name": "ReeperBahn St.Pauli",
+		"category": ["Dance", "Sex"],
+		"position": {
+			"lat": 53.54957,
+			"lng": 9.962614 
+		}
+	}
+]
